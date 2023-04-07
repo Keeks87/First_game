@@ -1,0 +1,34 @@
+Story Overview:
+
+What is the story behind your game? Provide a brief synopsis of the main plot and themes.
+Be sure to explain the setting, time period, and any relevant backstory that will help the
+player understand the game's narrative.
+
+Characters:
+
+Who are the main characters in your game? Describe their personalities, motivations, and 
+relationships with each other. Be sure to explain how each character fits into the game's 
+narrative and how they contribute to the overall story.
+
+Story Progression:
+
+How will the story be conveyed to the player? Will it be told through dialogue, cutscenes,
+or other storytelling elements? Be sure to describe how the story will progress throughout
+the game, and how the player's actions will affect the story.
+
+Branching Storylines:
+Will your game have multiple endings or branching storylines? If so, be sure to describe 
+how the player's choices will affect the story and how the game will handle these divergent
+paths.
+
+World Building:
+
+How will you create a rich and immersive game world that supports your story? Will you 
+create detailed environments, NPCs, and lore to help bring the story to life? Be sure to 
+describe how you will build the game world and what elements you will include.
+
+Themes and Messages:
+
+What themes and messages do you want to convey through your game's story? Is there a 
+moral or lesson that you want the player to take away from the experience? Be sure to 
+describe these themes and explain how they relate to the story.

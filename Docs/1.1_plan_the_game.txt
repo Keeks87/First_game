@@ -1,0 +1,45 @@
+Plan the game: 
+
+Before starting to code, it's important to plan the game. Think about the game mechanics, 
+the graphics needed, and any special features to include.
+
+    
+    Choose a game genre: 
+    
+        First, decide on the type of game to create. Will it be a platformer, a shooter, 
+        a puzzle game, or something else entirely? This will help guide the design choices 
+        and determine the game mechanics.
+    
+    Define the game mechanics:
+    
+        Once chosen a genre, think about the specific mechanics that will make up the game. 
+        For example, if creating a platformer, you might need to include jumping, running, 
+        and enemy avoidance. Write down a list of the mechanics to include in the game.
+    
+    Sketch out the game world:
+    
+        Create a rough sketch of the game world, including the layout of levels, obstacles, 
+        and enemies. This will help visualize the game and plan out the graphics needed.
+    
+    Design the game characters:
+        
+        Decide on the characters needed for the game, including the player character and 
+        any enemies or non-playable characters (NPCs). Sketch out their appearance and 
+        any animations needed.
+
+    Choose the graphics style:
+    
+        Decide on the visual style for the game. Will it be pixel art, cartoonish, or 
+        something more realistic? This will help guide the decisions when creating the 
+        graphics.
+
+    Think about special features:
+    
+        Consider adding special features to the game, like power-ups, secret areas, or boss 
+        battles. These can add depth and replayability to the game.
+
+    Write a game design document:
+    
+        Compile all of the ideas and plans into a game design document. This can be a helpful 
+        reference to start coding the game, and can also be shared with others who may be 
+        helping with the project.

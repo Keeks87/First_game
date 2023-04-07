@@ -1,0 +1,36 @@
+Overview:
+
+Provide an overview of the technical details of your game. Explain how the technical details
+will be designed to ensure that the game runs smoothly and is accessible to as many players 
+as possible.
+
+Game Engine:
+
+What engine will you use to develop your game? Will you use a commercial engine like Unity 
+or Unreal Engine, or will you develop a custom engine? Be sure to describe how the game engine
+will be designed to support the game's graphics, audio, and gameplay mechanics.
+
+System Requirements:
+
+What are the system requirements for your game? What kind of hardware will the player need to
+run the game smoothly? Be sure to describe the minimum and recommended system requirements for
+the game.
+
+Controls:
+
+What kind of controls will the player use to interact with your game? Will they use a keyboard
+and mouse, controller, touchscreen, or a combination of these? Be sure to describe how the 
+controls will be designed to be intuitive and easy to use.
+
+Localization:
+
+Will your game be localized for different languages and regions? If so, how will the localization
+process be handled? Be sure to describe how the game's user interface, audio, and text will be 
+localized.
+
+Performance Optimization:
+
+What steps will you take to optimize your game's performance? Will you use techniques like asset 
+bundling, level streaming, or texture compression? Be sure to describe how the performance 
+optimization process will be designed to ensure that the game runs smoothly on a wide range of 
+hardware.

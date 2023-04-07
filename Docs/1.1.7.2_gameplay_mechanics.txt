@@ -1,0 +1,35 @@
+Core Gameplay:
+
+What are the core mechanics of your game? Describe the fundamental actions that the player can
+take, such as movement, jumping, attacking, or interacting with objects. Be sure to explain how
+these actions work together to create engaging gameplay.
+
+Objectives:
+
+What are the player's objectives in your game? What does the player need to do to progress through
+the game? Be sure to describe the main objectives, as well as any secondary objectives or optional
+challenges.
+
+Win/Loss Conditions:
+
+What are the win/loss conditions for your game? How does the player achieve victory or suffer defeat?
+Be sure to describe the specific conditions that trigger a win or loss, as well as any penalties 
+for failure.
+
+Player Progression:
+
+How does the player progress through your game? Will there be levels, stages, or checkpoints? Will
+the player earn experience points, collect items, or upgrade their abilities? Be sure to describe 
+how the player's progress is tracked and how it affects the gameplay.
+
+Environment Interaction:
+
+How does the player interact with the game environment? Will there be objects to pick up, push, 
+or break? Will the environment change over time, or will it remain static? Be sure to describe the
+different ways that the player can interact with the environment to create engaging gameplay.
+
+Controls:
+
+What kind of controls will the player use? Will they use a keyboard/mouse, a controller, or 
+touchscreen? Be sure to describe the specific controls that the player will use to perform actions
+in the game.

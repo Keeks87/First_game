@@ -1,0 +1,65 @@
+Set up the game window:
+    
+Use Pygame to create a window for the game. Set the window size, background color, and title.
+
+    Import Pygame:
+        
+        Start by importing the Pygame library in the Python script: 
+        
+        $ - import pygame
+
+    Initialize Pygame:
+    
+        Next, initialize Pygame by calling the pygame.init() function:
+
+        $ - pygame.init()
+
+    Set up the game window:
+    
+    Use the pygame.display.set_mode() function to create a window for the game. This function
+    takes a tuple as an argument, representing the window size in pixels. For example, to create
+    a window that is 800 pixels wide and 600 pixels tall, you would use the following code:
+
+
+        $ - window_size = (800, 600)
+        $ - screen = pygame.display.set_mode(window_size)
+
+    Set the background color:
+    
+    Use the screen.fill() function to set the background color of the window. This function takes
+    a tuple representing the RGB values of the color. For example, to set the background color to 
+    black, you would use the following code:
+
+        $ - background_color = (0, 0, 0)
+        $ - screen.fill(background_color)
+
+    Set the window title:
+    
+    Use the pygame.display.set_caption() function to set the title of the window. For example:
+
+        $ - pygame.display.set_caption("My Game")
+
+    Update the display:
+    
+    Finally, use the pygame.display.flip() function to update the display and show the window:
+
+        $- pygame.display.flip()
+
+    The complete code for setting up the game window:
+
+        $ - import pygame
+
+        $ - pygame.init()
+
+        $ - window_size = (800, 600)
+        $ - screen = pygame.display.set_mode(window_size)
+
+        $ - background_color = (0, 0, 0)
+        $ - screen.fill(background_color)
+
+        $ - pygame.display.set_caption("My Game")
+
+        $ - pygame.display.flip()
+
+    This will create a window for the game with a black background and the title "My Game". 
+    Customize the window size, background color, and title to fit the game's needs.

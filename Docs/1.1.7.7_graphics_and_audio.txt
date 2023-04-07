@@ -1,0 +1,33 @@
+Overview:
+
+Provide an overview of the graphics and audio in your game. Explain how they will be designed
+to create an immersive and engaging experience for the player.
+
+Graphics Style:
+
+What kind of graphics style will your game have? Will it be 2D or 3D? Will it have a stylized
+or realistic look? Be sure to describe how the graphics style will be designed to support the
+game's themes and motifs.
+
+Art Assets:
+
+What kind of art assets will be used in your game? Will you use pre-made assets or create your
+own? Be sure to describe how the art assets will be designed to support the game's graphics 
+style and themes.
+
+Audio Design:
+
+What kind of audio will accompany your game? Will there be a soundtrack, ambient sounds, or
+voice acting? Be sure to describe how the audio design will be designed to create an immersive
+and engaging experience for the player.
+
+Sound Effects:
+
+What kind of sound effects will be used in your game? Will they be pre-made or custom-made?
+Be sure to describe how the sound effects will be designed to support the game's audio design
+and gameplay.
+
+Cutscenes:
+
+Will your game have cutscenes or other scripted events? Be sure to describe how these events
+will be designed to support the game's story and narrative.

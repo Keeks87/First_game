@@ -1,0 +1,35 @@
+Overview:
+
+Provide a brief overview of the different levels or environments in your game. Explain
+how they fit into the overall story and what themes or motifs they represent.
+
+Level Design:
+
+How will each level be structured? Will they be linear or open-ended? Will they be divided
+into sections or sub-levels? Be sure to describe how each level will be designed to 
+challenge the player and keep them engaged.
+
+Obstacles and Hazards:
+
+What obstacles and hazards will the player face in each level? Will there be traps, 
+environmental hazards, or other challenges to overcome? Be sure to describe how these 
+obstacles will affect gameplay and how the player can overcome them.
+
+Puzzles and Challenges:
+
+Will there be puzzles or other challenges for the player to solve in each level? Be 
+sure to describe how these puzzles will be integrated into the level design and how they
+will challenge the player's problem-solving skills.
+
+Exploration and Secrets:
+
+Will your game encourage exploration and reward the player for discovering secrets? 
+Be sure to describe how you will encourage the player to explore each level and what 
+rewards they can expect to find for doing so.
+
+Environments and Themes:
+
+What kinds of environments will the player explore in your game? Will there be different
+biomes or settings, such as forests, caves, or urban environments? Be sure to describe 
+how these environments will be designed to support the game's themes and motifs.
+

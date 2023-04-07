@@ -1,0 +1,56 @@
+Add game objects:
+        
+Use Pygame to add game objects like players, enemies, and obstacles. Use images or shapes to 
+create these objects.
+
+    Import images or create shapes:
+    
+        To add game objects, you can either use image files or create shapes using Pygame's 
+        drawing functions. For example, you can create a rectangle using the pygame.draw.rect() 
+        function:
+
+        $ - player_rect = pygame.Rect(x, y, width, height)
+        $ - pygame.draw.rect(screen, color, player_rect)
+
+    Load image files:
+    
+    If you want to use image files, you can load them using Pygame's pygame.image.load() function:
+
+        $ - player_image = pygame.image.load('player.png')
+
+    Display game objects:
+    
+    Once you have your game objects defined, you can display them on the screen using the blit() 
+    function. For example, to display a player image at position (x, y), you would use the 
+    following code:
+
+        $ - screen.blit(player_image, (x, y))
+
+    Update the display:
+    
+        After adding game objects, you'll need to update the display to show the changes. Use the 
+        pygame.display.flip() function to do this:
+
+        $ - pygame.display.flip()
+
+    Here's an example of how you could create a player object using a rectangle shape:
+
+        $ - import pygame
+
+        $ - pygame.init()
+
+        $ - window_size = (800, 600)
+        $ - screen = pygame.display.set_mode(window_size)
+
+        $ - player_rect = pygame.Rect(50, 50, 50, 50)
+        $ - player_color = (255, 0, 0)
+        $ - pygame.draw.rect(screen, player_color, player_rect)
+
+        $ - pygame.display.set_caption("My Game")
+        $ - pygame.display.flip()
+
+        $ - while True:
+            for event in pygame.event.get():
+                if event.type == pygame.QUIT:
+                    pygame.quit()
+                    sys.exit()

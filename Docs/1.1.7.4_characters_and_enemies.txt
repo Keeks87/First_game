@@ -1,0 +1,34 @@
+Player Characters:
+
+Who are the main player characters in your game? Describe their abilities, strengths, 
+and weaknesses. Be sure to explain how each character's unique traits and skills will 
+affect gameplay and how the player can use them to their advantage.
+
+Non-Player Characters:
+
+Will there be NPCs in your game? What role will they play in the story and gameplay? 
+Be sure to describe their personalities, motivations, and relationships with the player
+and other characters.
+
+Enemy Types:
+
+What kinds of enemies will the player face in your game? Will they be humanoid, creatures,
+or machines? Be sure to describe their abilities, strengths, and weaknesses, as well as
+any special attacks or behaviors they might exhibit.
+
+Enemy Behavior:
+
+How will enemies behave in your game? Will they have different tactics and strategies 
+depending on their type and difficulty level? Be sure to describe how enemies will interact
+with the player and how they will react to the player's actions.
+
+Boss Battles:
+
+Will there be boss battles in your game? If so, be sure to describe the boss characters and
+their abilities, strengths, and weaknesses. Also, explain how the player can defeat them and
+what rewards they will receive for doing so.
+
+Character Progression:
+How will player characters progress over the course of the game? Will they gain experience
+points, level up, or collect items that enhance their abilities? Be sure to describe how 
+player characters will evolve throughout the game and how this will affect gameplay.

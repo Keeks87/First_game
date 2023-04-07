@@ -1,0 +1,31 @@
+Overview:
+
+Provide an overview of the user interface in your game. Explain how it will be designed to
+be intuitive and easy to use.
+
+Controls:
+
+Describe the controls the player will use to interact with your game. Be sure to explain 
+how they will be designed to be responsive and user-friendly.
+
+HUD: 
+
+What kind of heads-up display (HUD) will your game have? Will it display the player's health,
+ammo, or other important information? Be sure to describe how the HUD will be designed to be 
+unobtrusive and easy to read.
+
+Menus:
+
+What kind of menus will your game have? Will there be a main menu, options menu, or other 
+menus? Be sure to describe how the menus will be designed to be easy to navigate and use.
+
+Inventory and Item Management:
+
+Will your game have an inventory system? How will the player manage items and equipment? 
+Be sure to describe how the inventory system will be designed to be intuitive and easy to use.
+
+Map and Navigation:
+
+Will your game have a map or other navigation system? How will the player use it to navigate 
+the game world? Be sure to describe how the map and navigation system will be designed to be 
+user-friendly and easy to use.

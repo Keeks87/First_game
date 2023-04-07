@@ -1,0 +1,27 @@
+Target Audience:
+
+Who is your game designed for? Is it targeted at a specific age group, gender, or demographic?
+Are you designing for casual or hardcore gamers? Be as specific as possible about your target 
+audience so you can design the game accordingly.
+
+Genre:
+
+What genre does your game belong to? Is it an action game, an RPG, a puzzle game, or something
+else? Be sure to describe the core gameplay mechanics that define your game's genre.
+
+Platform(s):
+
+What platform(s) will your game be developed for? Is it a mobile game, a PC game, a console game,
+or a browser-based game? Be sure to consider the technical capabilities and limitations of each
+platform when designing your game.
+
+Unique Selling Proposition (USP):
+
+What sets your game apart from others in the same genre? What unique features or gameplay mechanics
+does it offer? Be sure to highlight your game's USP to differentiate it from the competition.
+
+Development Team:
+
+Who is the development team behind your game? What experience and skills do they bring to the 
+project? Be sure to introduce your team and explain why they are qualified to develop your game.
+
